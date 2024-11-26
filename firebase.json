@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist", // Cambia "dist" si tu build se encuentra en otro directorio
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

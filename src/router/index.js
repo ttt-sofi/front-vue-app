@@ -11,3 +11,5 @@ export const router = createRouter({
 });
 
 export default router;
+
+console.log('router creado',router);
